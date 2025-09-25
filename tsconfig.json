@@ -7,7 +7,7 @@
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "types": ["node"]             // <-- add this
+    "types": ["node"]
   },
   "include": ["server.ts"]
 }
